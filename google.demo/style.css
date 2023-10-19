@@ -1,0 +1,42 @@
+/*-----------------------------------DIV----------------------------------------------*/
+.div1 {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    margin-top: 15%;
+
+}
+.div2 {
+    background-color: lightgray;
+    width:auto;
+    height: 1px;
+    padding: 33px;
+}
+.div3 {
+    background-color: aqua;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+}
+.div4 {
+    background-color: rgba(38, 155, 155, 0.747);
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+.div5 {
+    background-color: rgba(31, 110, 110, 0.747);
+    width: 44%;
+    height: 100px;
+    text-align: center;
+}
+/*------------------------------------ELEMENTS---------------------------------------*/
+button { 
+    background-color: lightgray;
+   
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+/*--------------------------------------CLASS---------------------------------------*/
